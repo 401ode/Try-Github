@@ -37,4 +37,5 @@ If you opted to download the command line tools without GitHub Desktop, or you w
 <img width="461" alt="screen shot 2016-08-11 at 3 39 43 pm" src="https://cloud.githubusercontent.com/assets/13228316/17602758/08ffa97a-5fdc-11e6-8638-5f8af1be7f0c.png">
 
 * Once you've done this, right-click on the `Try-Github` repository, as shown below, and click "Open in Explorer" or "Open in Finder," depending on what operating system you're using.
+
 <img width="999" alt="screen shot 2016-08-11 at 4 00 35 pm" src="https://cloud.githubusercontent.com/assets/13228316/17602929/cffe943c-5fdc-11e6-88e7-83b13112a4c4.png">
