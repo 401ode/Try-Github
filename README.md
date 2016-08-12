@@ -40,3 +40,14 @@ If you opted to download the command line tools without GitHub Desktop, or you w
 
 <img width="999" alt="screen shot 2016-08-11 at 4 00 35 pm" src="https://cloud.githubusercontent.com/assets/13228316/17602929/cffe943c-5fdc-11e6-88e7-83b13112a4c4.png">
 
+* Open the `Contributors.csv` file with Excel or another spreadsheet application, and add your name, email address, and department to the spreadsheet. Don't worry - we've already got your contact information, this is just practice with the GitHub Desktop software.
+
+<img width="618" alt="screen shot 2016-08-12 at 9 56 36 am" src="https://cloud.githubusercontent.com/assets/13228316/17624591/36645ef0-6073-11e6-8021-29b6c43e0cd2.png">
+
+* Save the file as a CSV (overwriting the old one) and return to the GitHub Desktop interface. You should see "1 change" listed, and a summary of your changes on the right-hand side. To permanently save this change in the version control system, you need to **commit** it. To do so, fill out the summary field and click "Commit to gh-pages."
+
+<img width="999" alt="screen shot 2016-08-12 at 10 02 09 am" src="https://cloud.githubusercontent.com/assets/13228316/17624753/fa9d015a-6073-11e6-8500-3e4e77546aab.png">
+
+* Now, the new version of `Contributors.csv` has been saved in version control _on your device_. In order to get these changes to show up on the GitHub repository, you'll need to **push** your changes. To do this, just click the "Sync" button in the top-right hand corner. In a couple of seconds, you'll see your changes updated to the GitHub site.
+
+You've now finished the first part of the tutorial. In a couple days, you'll receive an email with information about how to proceed with the tutorial. Thanks for your time!
