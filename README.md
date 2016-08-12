@@ -1,4 +1,4 @@
-# Try Github
+# Try GitHub
 Welcome to the Rhode Island version control feedback repository. Here, you'll test various Git features and work with fellow testers to build a repository. If you're viewing this, you were added as a **contributor**, which means you can view, edit, upload, and delete files. However, since this repository is version controlled with Git, it can be reinstated even if you delete important files, such as this README.
 
 Throughout this interactive tutorial, you may run into various questions regarding Git and GitHub software. If you need help, just click on the issues tab above this README. Then, click the green button that says "New issue" and submit a ticket.
