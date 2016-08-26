@@ -50,4 +50,4 @@ If you opted to download the command line tools without GitHub Desktop, or you w
 
 * Now, the new version of `Contributors.csv` has been saved in version control _on your device_. In order to get these changes to show up on the GitHub repository, you'll need to **push** your changes. To do this, just click the "Sync" button in the top-right hand corner. In a couple of seconds, you'll see your changes updated to the GitHub site.
 
-You've now finished the first part of the tutorial. In a couple days, you'll receive an email with information about how to proceed with the tutorial. Thanks for your time!
+You've now finished the first part of the tutorial!
